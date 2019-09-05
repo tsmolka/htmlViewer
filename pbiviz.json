@@ -1,0 +1,26 @@
+{
+    "visual": {
+        "name": "htmlViewer",
+        "displayName": "htmlViewer",
+        "guid": "htmlViewer6C5A263E94C249869AE7B515B005D0C7",
+        "visualClassName": "Visual",
+        "version": "0.0.1",
+        "description": "PoC visual for rendering content as HTML",
+        "supportUrl": "https://github.com/tsmolka/htmlViewer",
+        "gitHubUrl": ""
+    },
+    "apiVersion": "2.6.0",
+    "author": {
+        "name": "Tobias Smolka",
+        "email": "tsmolka@gmail.com"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": [
+    ],
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}
