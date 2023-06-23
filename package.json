@@ -10,11 +10,11 @@
     "@babel/runtime": "^7.5.5",
     "@babel/runtime-corejs2": "^7.5.5",
     "core-js": "3.2.1",
-    "powerbi-visuals-api": "~2.6.1",
+    "powerbi-visuals-api": "~2.6.2",
     "powerbi-visuals-utils-dataviewutils": "^2.2.1"
   },
   "devDependencies": {
-    "ts-loader": "6.0.4",
+    "ts-loader": "9.4.3",
     "typescript": "3.5.3"
   }
 }
